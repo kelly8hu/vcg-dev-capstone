@@ -5,3 +5,7 @@ This project is part of a capstone for Valley Consulting Group, where we can cre
 We created a **filtering method** that allows the user to input the ingredients they have, and it will output a recipe that utilizes those ingredients. 
 
 In addition, we integrated a **KNN classification** model trained on a large public nutritional dataset where customers can see if the ingredients they use to create a recipe creates something that is healthy, moderately healhty, or unhealthy. 
+
+Datasets used can be found here:
+- https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images
+- https://www.kaggle.com/datasets/trolukovich/nutritional-values-for-common-foods-and-products
