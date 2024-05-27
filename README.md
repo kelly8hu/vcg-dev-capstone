@@ -1,4 +1,4 @@
-# VCG Develeopment Capstone
+# VCG Development Capstone
 
 This project is part of a capstone for Valley Consulting Group, where we can create a technical project of our choosing. This producted is called Fuzzle, and it is to help busy college students or parents make healthy, cost-effective, and easy meal options with the ingredients they have on hand. 
 
